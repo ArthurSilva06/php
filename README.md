@@ -1,1 +1,1 @@
-here in this repository you'll find some aciviies in php, enjoy! :)
+here in this repository you'll find some acivities in php, enjoy! :)
